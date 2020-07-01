@@ -28,7 +28,6 @@ Repo for my Kustom projects
   * Please set your launcher to `two` pages or more. 
   * The wallaper may not function correctly if set to only have one page or your launcher doesn't have `two or more` pages. 
 * By default, this wallpaper if formatted to have a `12x8` app grid and no padding on **Nova Launcher**
-  * If any formatting issues arise, you may tinker with your launcher, the wallpaper or contact me (below). 
 * More common issues can be easily solved.
   1. Set your wallpaper to a regular **static** image.
   2. Set the wallpaper again by following **Applying the wallpaper** above./
@@ -37,6 +36,7 @@ Repo for my Kustom projects
   2. Tap on `Settings`
   3. Near the bottom of the menu, select `Disable Parallel Rendering`.
   4. Once you have done this, you may need to reapply the wallpaper. Please refer to **Applying the wallpaper** above.
+ * For any other issues, please contact me (below).
  * _more troubleshooting tips will appear hear as more issues are noticed_
  
  
