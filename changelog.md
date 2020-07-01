@@ -12,7 +12,9 @@
        * Battery icon changes color depending on charge remaining 
        * Battery icon changes color and look when plugged in
     * Added a control panel for easy acess to some common funtions
-      * Touch controls for common system toggles 
+      * Touch controls for common system toggles
+       * **Notice!** The power and ringer controls require an `Automate` flow to work properly.
+       * The flow(s) will be up on the repository (with instructions) once some bugs are fixed
       * Volume control
         * Left side lowers volume
         * Right side raises volume
