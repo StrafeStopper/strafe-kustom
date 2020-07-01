@@ -27,6 +27,7 @@
       * Gave all the icons a basic gradient to make them look nicer
     * Task bar
       * Gave icons a basic gradient to make them look nicer
+  * Added a new wallpaper to the first page
     
 `v0.1.1`
   * Released to beta
