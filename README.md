@@ -30,7 +30,7 @@ Repo for my Kustom projects
 * By default, this wallpaper if formatted to have a `12x8` app grid and no padding on (**Nova Launcher**)[https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher]
 * More common issues can be easily solved.
   1. Set your wallpaper to a regular **static** image.
-  2. Set the wallpaper again by following **Applying the wallpaper** above./
+  2. Set the wallpaper again by following **Applying the wallpaper** above.
 * If you are expirencing any graphical bugs (blurring, artifacts, choppiness, ect)
   1. Open the hamburger menu in the top left corner of the app.
   2. Tap on `Settings`
