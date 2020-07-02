@@ -27,7 +27,7 @@ Repo for my Kustom projects
 * This wallpaper is by default, set to have **two** pages on the home screen.
   * Please set your launcher to `two` pages or more. 
   * The wallaper may not function correctly if set to only have one page or your launcher doesn't have `two or more` pages. 
-* By default, this wallpaper if formatted to have a `12x8` app grid and no padding on **Nova Launcher**
+* By default, this wallpaper if formatted to have a `12x8` app grid and no padding on (**Nova Launcher**)[https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher]
 * More common issues can be easily solved.
   1. Set your wallpaper to a regular **static** image.
   2. Set the wallpaper again by following **Applying the wallpaper** above./
